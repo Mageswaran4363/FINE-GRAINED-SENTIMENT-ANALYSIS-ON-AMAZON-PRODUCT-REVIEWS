@@ -139,4 +139,4 @@ matplotlib
 
 **Mageswaran Palani**  
 MSc Applied Data Science, University of Essex  
-[GitHub](https://github.com/Mageswaran4363) | [LinkedIn][https://www.linkedin.com/in/mageswaran-palani](https://www.linkedin.com/in/mages-waran/)
+[GitHub](https://github.com/Mageswaran4363) | [LinkedIn](https://www.linkedin.com/in/mages-waran/)
